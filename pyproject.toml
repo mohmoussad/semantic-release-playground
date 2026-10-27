@@ -1,0 +1,7 @@
+[tool.semantic_release]
+version_toml = ["cast.toml:package.version"]
+tag_format = "v{version}"
+commit_parser = "conventional"
+
+[tool.semantic_release.branches.main]
+match = "main"
