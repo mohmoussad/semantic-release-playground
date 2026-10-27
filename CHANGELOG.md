@@ -1,6 +1,16 @@
 # CHANGELOG
 
 
+## v1.3.0 (2026-10-27)
+
+### Features
+
+- Test branch ([#1](https://github.com/mohmoussad/semantic-release-playground/pull/1),
+  [`e0793b6`](https://github.com/mohmoussad/semantic-release-playground/commit/e0793b6a70010e849716b33bd6f80f30b5d60ac1))
+
+Co-authored-by: Mohamed Nawar <mohamed.nawar1@vodafone.com>
+
+
 ## v1.2.0 (2026-10-27)
 
 ### Chores
